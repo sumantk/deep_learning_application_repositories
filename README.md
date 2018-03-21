@@ -41,18 +41,6 @@ Markup:
 9. https://github.com/shimisalant/RaSoR
 10. https://github.com/theSage21/FusionNet (2018)
 
-
-# Attention Mechanism
-
-General: https://github.com/topics/attention-mechanism
-
-Markup:
-1. https://github.com/brightmart/text_classification
-2. https://github.com/Kyubyong/transformer
-3. https://github.com/philipperemy/keras-attention-mechanism
-4. https://github.com/awslabs/sockeye (2018)
-5. https://github.com/yunjey/show-attend-and-tell (2018)
-
 # Computer Vision
 
 ## Human Detection
@@ -77,3 +65,16 @@ Markup:
  2. https://github.com/m-dorgham/PedestrianTracking
  3. https://github.com/MyNameIsCosmo/lidar_body_tracking
  4. https://github.com/bendidi/Tracking-with-darkflow
+
+# Generic Deep Learning
+
+## Attention Mechanism
+
+General: https://github.com/topics/attention-mechanism
+
+Markup:
+1. https://github.com/brightmart/text_classification
+2. https://github.com/Kyubyong/transformer
+3. https://github.com/philipperemy/keras-attention-mechanism
+4. https://github.com/awslabs/sockeye (2018)
+5. https://github.com/yunjey/show-attend-and-tell (2018)
