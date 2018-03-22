@@ -40,12 +40,18 @@ Markup:
 
 # Virtual Assistant
 
+general: https://github.com/topics/chatbot
+
 Markup: 
-1.https://github.com/snipsco/snips-nlu
+1. https://github.com/snipsco/snips-nlu
     1. https://github.com/snipsco/snips-nlu-rs
     2. Demos: https://snips.ai (MUST SEE)
     3. Ontology of Rustling: https://github.com/snipsco/rustling-ontology
     4. All snips: https://github.com/topics/snips __MUST__
+2. https://github.com/RasaHQ/rasa_nlu
+3. https://github.com/hubotio/hubot
+4. https://github.com/gunthercox/ChatterBot
+5. https://github.com/python-telegram-bot/python-telegram-bot
 
 # Entity Extraction
 
@@ -60,3 +66,5 @@ Markup:
     2. Demos: https://snips.ai (MUST SEE)
     3. Ontology of Rustling: https://github.com/snipsco/rustling-ontology
     4. All Snips: https://github.com/topics/snips
+5. https://github.com/Franck-Dernoncourt/NeuroNER
+6. https://github.com/guillaumegenthial/sequence_tagging
