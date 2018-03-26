@@ -18,6 +18,10 @@ Markup:
 5. https://github.com/ymcui/Eval-on-NN-of-RC
 6. https://github.com/cairoHy/RC-experiments
 7. https://github.com/qizhex/RACE_AR_baselines
+8. Paper NAACL 2018 : https://arxiv.org/abs/1803.06643
+    1. Dataset: https://www.tau-nlp.org/compwebq
+    2. Codebsae (supose to be here): https://github.com/alontalmor/WebAsKB
+9. https://arxiv.org/pdf/1803.03664.pdf (IIT-B)
 
 
 # Only Q&A
